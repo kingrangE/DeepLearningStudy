@@ -1,2 +1,2 @@
 # DeepLearningStudy
-For Recording DeepLearingStudy 
+To record basic deep learning learnings
